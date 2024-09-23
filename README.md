@@ -28,17 +28,16 @@ To better understand the system's workflow, here's the Vaccine Management System
 ![image](main.jpg)
 
 ### Create Menu
-[alt text](https://github.com/syarifaahk/Capstone-Module-1/blob/8e4a4bddcbcd7c26c67ffb7098273af5043f95b2/Flowchart%20Capstone%20Module_Create%20Menu.jpg)
+![image](create.jpg)
 
 ### Read Menu
-[alt text](https://github.com/syarifaahk/Capstone-Module-1/blob/8e4a4bddcbcd7c26c67ffb7098273af5043f95b2/Flowchart%20Capstone%20Module_Read%20Menu.jpg)
+![image](read.jpg)
 
 ### Update Menu
-[alt text](https://github.com/syarifaahk/Capstone-Module-1/blob/8e4a4bddcbcd7c26c67ffb7098273af5043f95b2/Flowchart%20Capstone%20Module_Update%20Menu.jpg)
+![image](update.jpg)
 
 ### Delete Menu
-[alt text](https://github.com/syarifaahk/Capstone-Module-1/blob/8e4a4bddcbcd7c26c67ffb7098273af5043f95b2/Flowchart%20Capstone%20Module_Delete%20Menu.jpg)
-
+![image](delete.jpg)
 
 ## 🎉 Wrapping Up!
 Thank you for exploring the Vaccine Management System! I hope you found it as helpful as I did while building it. Feel free to clone, explore, and even improve the code—contributions are always welcome!
@@ -47,9 +46,10 @@ A huge shout-out to Purwadhika Digital Technology School for providing an amazin
 
 Happy coding! 🚀
 
-
+'''
 Name                : Syarifah Khaerunnisa
 Capstone Module 1   : Programming Fundamental
 Purwadhika DTI      : Data Science and Machine Learning
 Lecturer            : Ilham Candra
+'''
 
