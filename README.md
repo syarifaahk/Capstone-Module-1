@@ -25,7 +25,7 @@ This Python-based Vaccine Management System is designed to efficiently manage va
 To better understand the system's workflow, here's the Vaccine Management System Flowchart:
 
 ### Main Menu
-[alt text](https://github.com/syarifaahk/Capstone-Module-1/blob/8e4a4bddcbcd7c26c67ffb7098273af5043f95b2/Flowchart%20Capstone%20Module_Main%20Menu.jpg)
+![image](main.jpg)
 
 ### Create Menu
 [alt text](https://github.com/syarifaahk/Capstone-Module-1/blob/8e4a4bddcbcd7c26c67ffb7098273af5043f95b2/Flowchart%20Capstone%20Module_Create%20Menu.jpg)
