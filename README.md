@@ -50,6 +50,6 @@ Happy coding! 🚀
 Name                : Syarifah Khaerunnisa \
 Capstone Module 1   : Programming Fundamental \
 Purwadhika DTI      : Data Science and Machine Learning \
-Lecturer            : Ilham Candra \
+Lecturer            : Ilham Candra 
 
 
