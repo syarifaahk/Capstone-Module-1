@@ -45,11 +45,11 @@ Thank you for exploring the Vaccine Management System! I hope you found it as he
 A huge shout-out to Purwadhika Digital Technology School for providing an amazing opportunity to grow and learn in the world of data science and machine learning. 🙌
 
 Happy coding! 🚀
+---
 
-'''
-Name                : Syarifah Khaerunnisa
-Capstone Module 1   : Programming Fundamental
-Purwadhika DTI      : Data Science and Machine Learning
-Lecturer            : Ilham Candra
-'''
+Name                : Syarifah Khaerunnisa ;
+Capstone Module 1   : Programming Fundamental ;
+Purwadhika DTI      : Data Science and Machine Learning ;
+Lecturer            : Ilham Candra ;
+
 
