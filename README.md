@@ -1,5 +1,5 @@
 # Vaccine Management System
-### This Python-based Vaccine Management System is designed to efficiently manage vaccine stocks, track storage room capacities, and ensure that vaccines are stored at their required temperatures. The system simplifies inventory functions such as adding new vaccines, checking stock levels, updating storage, and preventing overstocking. It also provides features for easy sorting, filtering, and removing stock, all within a user-friendly interface.
+This Python-based Vaccine Management System is designed to efficiently manage vaccine stocks, track storage room capacities, and ensure that vaccines are stored at their required temperatures. The system simplifies inventory functions such as adding new vaccines, checking stock levels, updating storage, and preventing overstocking. It also provides features for easy sorting, filtering, and removing stock, all within a user-friendly interface.
 
 ## Features
 * Add New Vaccine : The system automatically assigns vaccines to appropriate storage rooms based on temperature requirements and checks if there’s enough storage capacity before adding them.
@@ -22,27 +22,27 @@
 * Dynamic Updates: Stock levels can be adjusted up or down, with the system automatically updating the available space in each storage room. The system also prevents invalid actions, such as trying to reduce stock below zero or exceeding room capacity.
 
 ## Flowchart
-### To better understand the system's workflow, here's the Vaccine Management System Flowchart:
+To better understand the system's workflow, here's the Vaccine Management System Flowchart:
 
-## Main Menu
-[alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/Syarifaahk/Downloads/capstone/Flowchart%20Capstone%20Module_Main%20Menu.jpg?version%3D1727100494168)
+### Main Menu
+[alt text](https://github.com/syarifaahk/Capstone-Module-1/blob/8e4a4bddcbcd7c26c67ffb7098273af5043f95b2/Flowchart%20Capstone%20Module_Main%20Menu.jpg)
 
-## Create Menu
-[alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/Syarifaahk/Downloads/capstone/Flowchart%20Capstone%20Module_Create%20Menu.jpg?version%3D1727100590135)
+### Create Menu
+[alt text](https://github.com/syarifaahk/Capstone-Module-1/blob/8e4a4bddcbcd7c26c67ffb7098273af5043f95b2/Flowchart%20Capstone%20Module_Create%20Menu.jpg)
 
-## Read Menu
-[alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/Syarifaahk/Downloads/capstone/Flowchart%20Capstone%20Module_Read%20Menu.jpg?version%3D1727100636054)
+### Read Menu
+[alt text](https://github.com/syarifaahk/Capstone-Module-1/blob/8e4a4bddcbcd7c26c67ffb7098273af5043f95b2/Flowchart%20Capstone%20Module_Read%20Menu.jpg)
 
-## Update Menu
-[alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/Syarifaahk/Downloads/capstone/Flowchart%20Capstone%20Module_Update%20Menu.jpg?version%3D1727100669350)
+### Update Menu
+[alt text](https://github.com/syarifaahk/Capstone-Module-1/blob/8e4a4bddcbcd7c26c67ffb7098273af5043f95b2/Flowchart%20Capstone%20Module_Update%20Menu.jpg)
 
-## Delete Menu
-[alt text](https://file%2B.vscode-resource.vscode-cdn.net/Users/Syarifaahk/Downloads/capstone/Flowchart%20Capstone%20Module_Delete%20Menu.jpg?version%3D1727100705325)
+### Delete Menu
+[alt text](https://github.com/syarifaahk/Capstone-Module-1/blob/8e4a4bddcbcd7c26c67ffb7098273af5043f95b2/Flowchart%20Capstone%20Module_Delete%20Menu.jpg)
 
 
 ## 🎉 Wrapping Up!
-### Thank you for exploring the Vaccine Management System! I hope you found it as helpful as I did while building it. Feel free to clone, explore, and even improve the code—contributions are always welcome!
+Thank you for exploring the Vaccine Management System! I hope you found it as helpful as I did while building it. Feel free to clone, explore, and even improve the code—contributions are always welcome!
 
-### A huge shout-out to Purwadhika Digital Technology School for providing an amazing opportunity to grow and learn in the world of data science and machine learning. 🙌
+A huge shout-out to Purwadhika Digital Technology School for providing an amazing opportunity to grow and learn in the world of data science and machine learning. 🙌
 
-## Happy coding! 🚀
+Happy coding! 🚀
