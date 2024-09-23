@@ -47,9 +47,9 @@ A huge shout-out to Purwadhika Digital Technology School for providing an amazin
 Happy coding! 🚀
 ---
 
-Name                : Syarifah Khaerunnisa ;
-Capstone Module 1   : Programming Fundamental ;
-Purwadhika DTI      : Data Science and Machine Learning ;
-Lecturer            : Ilham Candra ;
+Name                : Syarifah Khaerunnisa \
+Capstone Module 1   : Programming Fundamental \
+Purwadhika DTI      : Data Science and Machine Learning \
+Lecturer            : Ilham Candra \
 
 
